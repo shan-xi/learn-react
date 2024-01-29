@@ -2,7 +2,7 @@ import React, { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
 
-import App from "./App3";
+import App from "./Challenge3.js";
 
 const root = createRoot(document.getElementById("root"));
 root.render(
